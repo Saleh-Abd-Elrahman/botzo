@@ -6,11 +6,12 @@
 
 Here’s a sneak peek of our current progress:  
 
-![Leg Design](img\botzo.jpg)  
+![Leg Design](https://github.com/botzo-team/our_images_and_videos/blob/main/botzo.jpg)  
 
-![First Steps](img\firststeps.gif)
-
-![Walking](img\walking.gif)
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github.com/botzo-team/our_images_and_videos/blob/main/firststeps.gif" alt="First Steps" width="300">
+    <img src="https://github.com/botzo-team/our_images_and_videos/blob/main/walking.gif" alt="Walking" width="300">
+</div>
 
 >Stay tuned for updates and feel free to reach out with suggestions! Let's build Botzo together! 🛠️
 
