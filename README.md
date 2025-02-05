@@ -6,11 +6,12 @@
 
 Here’s a sneak peek of our current progress:  
 
-![Leg Design](botzo\img\botzo.jpg)  
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="botzo\img\firststeps.gif" alt="First Steps" width="300">
-    <img src="botzo\img\walking.gif" alt="Walking" width="300">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="img/botzo.jpg" alt="Leg Design" width="610">
+</div>
+<div style="display: flex; justify-content: center; gap: 10px;margin-bottom: 10px;">
+    <img src="img\firststeps.gif" alt="First Steps" width="300">
+    <img src="img\walking.gif" alt="Walking" width="300">
 </div>
 
 >Stay tuned for updates and feel free to reach out with suggestions! Let's build Botzo together! 🛠️
