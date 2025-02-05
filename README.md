@@ -18,11 +18,13 @@
     </a>
     
 </p>
-</div>
+
 
 🚨🚧 **Project Under Construction!** 🚧🚨  
 
 Here's a sneak peek of our current progress:  
+
+</div>
 
 <p align="center">
     <a href="img/botzo.jpg">
@@ -34,7 +36,7 @@ Here's a sneak peek of our current progress:
         <img src="img/firststeps.gif" alt="First Steps" width="300" style="margin-right: 5px;">
     </a>
     <a href="img/walking.gif">
-        <img src="img/walking.gif" alt="Walking" width="300" style="margin-left: 5px;">
+        <img src="img/walking.gif" alt="Walking" width="300" style="margin-left: 5x;">
     </a>
 </p>
 
