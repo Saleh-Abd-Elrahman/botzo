@@ -22,7 +22,7 @@ Here’s a sneak peek of our current progress:
 
 >Stay tuned for updates and feel free to reach out with suggestions! Let's build Botzo together! 🛠️
 
-📬 Email us at: [rodrigo.sagastegui9@gmail.com](rodrigo.sagastegui9@gmail.com)
+📬 Email us at: [botzoteam@gmail.com](botzoteam@gmail.com)
 
 ## 🌟 **Welcome to the Botzo Project!**  
 
