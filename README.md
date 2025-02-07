@@ -19,6 +19,9 @@
     
 </p>
 
+Here's a sneak peek of our current progress:  
+
+</div>
 
 ## **Introduction**  
 
@@ -52,12 +55,6 @@ If you’re excited to build your own Botzo, jump right into our repository for:
 [Name of the Other Repo](https://github.com/IERoboticsAILab/botzo_simulation) – Building a simulation software to test out newly created codes.
 
 
-
-
-**End**
-Here's a sneak peek of our current progress:  
-
-</div>
 
 <p align="center">
     <a href="img/botzo.jpg">
