@@ -20,8 +20,41 @@
 </p>
 
 
-🚨🚧 **Project Under Construction!** 🚧🚨  
+**Introduction**  
 
+Meet Botzo, a quadruped robot designed to:
+
+- Navigate complex terrains 🌄
+- Collect data and samples 📊
+- Interact with its environment 🌍
+  
+This project combines sleek design, cutting-edge technology, and practical functionality to redefine robotic mobility—without breaking the bank.
+
+*Why Botzo?*
+Inspired by the impressive capabilities of Boston Dynamics’ quadruped robot, we wanted to create an affordable alternative that others could replicate. Botzo aims to:
+
+- Reduce costs significantly compared to existing high-end quadrupeds.
+- Democratize robotics by making all hardware and software open source.
+- Showcase a practical approach for anyone interested in building their own quadruped robot.
+
+*Open Source Philosophy*
+We believe in the power of collaboration and shared knowledge. Everything we develop for Botzo—code, hardware designs, and build instructions—is freely available under an open-source license. This ensures:
+
+- Transparency in design and functionality
+- Community-driven improvements and bug fixes
+- Easy customization for specialized tasks or research
+
+*Getting Started*
+If you’re excited to build your own Botzo, jump right into our repository for:
+
+[Name of the Other Repo](https://github.com/IERoboticsAILab/botzo_STLs) – 3D-printable parts, CAD files.
+[Name of the Other Repo](https://github.com/IERoboticsAILab/botzo_urdf) – Code and libraries powering Botzo’s movement and sensor suite.
+[Name of the Other Repo](https://github.com/IERoboticsAILab/botzo_simulation) – Building a simulation software to test out newly created codes.
+
+
+
+
+**End**
 Here's a sneak peek of our current progress:  
 
 </div>
