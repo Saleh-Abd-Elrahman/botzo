@@ -20,7 +20,7 @@
 </p>
 
 
-**Introduction**  
+## **Introduction**  
 
 Meet Botzo, a quadruped robot designed to:
 
