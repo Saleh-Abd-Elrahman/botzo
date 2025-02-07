@@ -23,6 +23,26 @@ Here's a sneak peek of our current progress:
 
 </div>
 
+
+
+<p align="center">
+    <a href="img/botzo.jpg">
+        <img src="img/botzo.jpg" alt="Leg Design" width="610">
+    </a>
+</p>
+<p align="center" style="margin-bottom: 10px;">
+    <a href="img/firststeps.gif">
+        <img src="img/firststeps.gif" alt="First Steps" width="300" style="margin-right: 5px;">
+    </a>
+    <a href="img/walking.gif">
+        <img src="img/walking.gif" alt="Walking" width="300" style="margin-left: 5x;">
+    </a>
+</p>
+
+>Stay tuned for updates and feel free to reach out with suggestions! Let's build Botzo together! 🛠️
+
+📬 Email us at: [botzoteam@gmail.com](botzoteam@gmail.com)
+
 ## **Introduction**  
 
 Meet Botzo, a quadruped robot designed to:
@@ -50,38 +70,10 @@ We believe in the power of collaboration and shared knowledge. Everything we dev
 *Getting Started*
 If you’re excited to build your own Botzo, jump right into our repository for:
 
-[Name of the Other Repo](https://github.com/IERoboticsAILab/botzo_STLs) – 3D-printable parts, CAD files.
-[Name of the Other Repo](https://github.com/IERoboticsAILab/botzo_urdf) – Code and libraries powering Botzo’s movement and sensor suite.
-[Name of the Other Repo](https://github.com/IERoboticsAILab/botzo_simulation) – Building a simulation software to test out newly created codes.
+- [STL Files](https://github.com/IERoboticsAILab/botzo_STLs) – 3D-printable parts, CAD files.
+- [URDF Code](https://github.com/IERoboticsAILab/botzo_urdf) – Code and libraries powering Botzo’s movement and sensor suite.
+- [Simulation](https://github.com/IERoboticsAILab/botzo_simulation) – Building a simulation software to test out newly created codes.
 
-
-
-<p align="center">
-    <a href="img/botzo.jpg">
-        <img src="img/botzo.jpg" alt="Leg Design" width="610">
-    </a>
-</p>
-<p align="center" style="margin-bottom: 10px;">
-    <a href="img/firststeps.gif">
-        <img src="img/firststeps.gif" alt="First Steps" width="300" style="margin-right: 5px;">
-    </a>
-    <a href="img/walking.gif">
-        <img src="img/walking.gif" alt="Walking" width="300" style="margin-left: 5x;">
-    </a>
-</p>
-
->Stay tuned for updates and feel free to reach out with suggestions! Let's build Botzo together! 🛠️
-
-📬 Email us at: [botzoteam@gmail.com](botzoteam@gmail.com)
-
-## 🌟 **Welcome to the Botzo Project!**  
-
-**Botzo** is an autonomous quadruped robot designed to:  
-- Navigate complex terrains 🌄  
-- Collect data and samples 📊  
-- Interact with its environment 🌍  
-
-This project combines sleek design, cutting-edge technology, and practical functionality to redefine robotic mobility.
 
 ## 📚 **Project Overview**  
 
